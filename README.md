@@ -10,7 +10,7 @@ Hack Cameras
 
 * git clone https://github.com/DarkStar-13/Cam-hacker.git
 
-* cd Cam-Hackers
+* cd Cam-Hacker
 
 * pip install -r requirements.txt
 
